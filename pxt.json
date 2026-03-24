@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "qrcode": "github:pelikhan/pxt-qrcode"
     },
     "files": [
         "main.blocks",
